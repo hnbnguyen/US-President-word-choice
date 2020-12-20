@@ -1,4 +1,4 @@
-# us-president-word-choice
+# US-Pesident-word-choice
 Analyze word choice in US presidential candidate speeches, based on winning and losing outcome
 
 ## Motivation
